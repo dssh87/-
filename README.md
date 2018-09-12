@@ -2,9 +2,9 @@
 자바 개발자를 위한 면접문제 모음  
   
 * 자주하는 질문  
-1. 자바  
+1. Java  
   ① 상속  
-  ② 추상클래스와 인터페이스  
+  ② 추상클래스와 Interface  
   ③ JVM, GC  
   ④ Collection  
   ⑤ Annotation  
@@ -12,21 +12,21 @@
   ⑦ Overriding vs Overloading  
   ⑧ Wrapper class  
   
-2. 스프링  
-  ② 스프링 사용이유  
+2. Spring Framwork  
+  ② Spring Framework 사용이유  
   ② anotation  
   
-3. 데이터베이스  
-  ① 인덱스  
-  ② 조인  
+3. Database  
+  ① index  
+  ② join  
   ③ PK  
-  ④   
+  ④ view  
   
-4. 자바스크립트  
-  ① 호이스팅  
-  ② 클로저  
+4. JavaScript  
+  ① hoisting  
+  ② closer  
   ③ jQuery  
   ④ Ajax  
     
-5. 네트워크  
+5. Network  
   ① TCP/IP  
